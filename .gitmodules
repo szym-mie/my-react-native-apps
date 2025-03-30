@@ -1,0 +1,18 @@
+[submodule "camera"]
+	path = camera
+	url = https://gitlab.com/szym.mie/react-native-camera.git
+[submodule "sqlite"]
+	path = sqlite
+	url = https://gitlab.com/szym.mie/react-native-sqlite.git
+[submodule "geo"]
+	path = geo
+	url = https://gitlab.com/szym.mie/react-geo.git
+[submodule "users"]
+	path = users
+	url = https://gitlab.com/szym.mie/react-users.git
+[submodule "users-serv"]
+	path = users-serv
+	url = https://gitlab.com/szym.mie/react-users-serv.git
+[submodule "calc"]
+	path = calc
+	url = https://gitlab.com/szym.mie/react_native_calc.git
