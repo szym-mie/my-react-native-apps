@@ -14,3 +14,7 @@ of vulnerablilties and might not work at all, due to incompatible libraries.
 - `users` - An updateable list of users, fetched from a server
 - `users-serv` - Backend for `users`
 - `store` - ? (app currently missing)
+
+## Source
+
+All of these apps can be found on my old GitLab account as my personal projects.
